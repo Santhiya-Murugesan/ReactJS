@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Samsung Galaxy S21",
+        "brand":"Samsung",
+        "description":"Galaxy S21 5G and S21+ 5G, made for the epic in everyday with vibrant colours and a revolution in video and photography with 8K video and 30X Space Zoom.",
+        "image":"https://rukminim1.flixcart.com/image/312/312/kzrbiq80/mobile/h/x/n/galaxy-s21-fe-5g-sm-g990ezaiinu-samsung-original-imagbpfzbrnueypq.jpeg?q=70",
+        "price":"39,999",
+        "rating":"4.4"
+    },
+    {
+        "name":"REDMI 10",
+        "brand":"Realmi",
+        "description":"This smartphone boasts a large 6000 mAh battery with an 18 W fast charging capability giving your phone a necessary boost to achieve optimal efficiency.",
+        "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/p/x/-original-imagk4nz54s7a7rf.jpeg?q=70",
+        "price":"9,999",
+        "rating":"4.3"
+    },
+    {
+        "name":"Vivo T1",
+        "brand":"Vivo",
+        "description":"T1 5G is equipped with a vivo standard charger (power adapter 9V/2A), and supports up to 18W Fast Charge. The actual charging power is dynamically adjusted.",
+        "image":"https://rukminim1.flixcart.com/image/312/312/l2p23rk0/mobile/s/4/3/-original-imagdznhcbdfwfud.jpeg?q=70",
+        "price":"14,499",
+        "rating":"4.5"
+    },
+    {
+        "name":"Oppo K10",
+        "brand":"Oppo",
+        "description":"OPPO K10 is an ideal smartphone for photography lovers. It is equipped with a robust, AI-powered camera setup that features DSLR quality images.",
+        "image":"https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/z/i/s/-original-imagf9wt7v5pugmy.jpeg?q=70",
+        "price":"16,999",
+        "rating":"4.0"
+    },
+    {
+        "name":"One Plus 10R",
+        "brand":"OnePlus",
+        "description":"The phone comes with a 120 Hz refresh rate 6.70-inch touchscreen display offering a resolution of 1080x2412 pixels (FHD+) and an aspect ratio of 20:9.",
+        "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/l/q/v/-original-imageyq5akea25we.jpeg?q=70",
+        "price":"35,689",
+        "rating":"4.5"
+    }
+]
